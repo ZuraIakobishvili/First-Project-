@@ -612,6 +612,14 @@ h1 {
 
 .footer-li {
 	margin-top: 5px;
+	transition: all 0.2s linear ;
+
+}
+.footer-li:hover {
+	
+	
+	transform: translateX(5px);
+	font-weight: bold;
 }
 .foot-p {
 	line-height: 28px;
