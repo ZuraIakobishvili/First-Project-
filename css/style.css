@@ -523,13 +523,18 @@ h1 {
 .input-class {
 		position: relative;
 }
-.input-img {
-	width: 100px;
+.send-button {
+	width: 50px;
 	position: absolute;
-	right: 0;
-	top: -18px;
-	
+	right: 15px;
+	bottom: 10px;
+	border: none;
+	background-color: white;
+	cursor: pointer;
+	color: tomato;
+	font-size:20px
 }
+
 #input-text {
 		height: 50px;
 		width: 486px;
